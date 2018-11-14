@@ -21,3 +21,11 @@ can only go to 6th
 \*
 combine italics and bold
 *__jijiji__*
+
+
+
+# line ruling
+with ---
+need three minimum minuses or *** or ___
+
+---
